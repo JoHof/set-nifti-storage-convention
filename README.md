@@ -12,7 +12,7 @@ or
 
 >Error: Mismatched Dimensions. The size of the segmentation image ... does not match the size of the main image .... Images must have the same dimensions.
 
-The reason might be that the files don't use the same storage convention. If this is the case the segmentation either can't be loaded at all or the appear with wrong orientation.
+The reason might be that the files don't use the same storage convention. If this is the case the segmentation either can't be loaded at all or will appear with wrong orientation.
 
 Try to perform:
 
